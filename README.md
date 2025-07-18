@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuframadani2025&show_icons=true&locale=en" alt="yusuframadani2025" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuframadani2025&" alt="yusuframadani2025" /></p>
