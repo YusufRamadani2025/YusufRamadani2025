@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuframadani2025&show_icons=true&locale=en" alt="yusuframadani2025" /></p>
 
-<img src="https://raw.githubusercontent.com/YusufRamadani2025/YusufRamadani2025/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
@@ -37,3 +35,6 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/YusufRamadani2025/YusufRamadani2025/output/snake.svg" alt="Snake animation" />
+
