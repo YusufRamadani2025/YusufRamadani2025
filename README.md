@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YusufRamadani2025/YusufRamadani2025/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/YusufRamadani2025/YusufRamadani2025/output/github-contribution-grid-snake.svg)
 
 ###
 
